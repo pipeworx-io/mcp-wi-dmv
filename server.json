@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "io.github.pipeworx-io/wi-dmv",
   "title": "Wi Dmv",
-  "description": "Wisconsin DMV MCP — every WisDOT DMV customer service center, with the services each",
-  "version": "0.1.1",
+  "description": "Wisconsin DMV MCP — every WisDOT DMV customer service center, with the services each individual…",
+  "version": "0.2.0",
   "websiteUrl": "https://pipeworx.io/packs/wi-dmv",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-wi-dmv",
